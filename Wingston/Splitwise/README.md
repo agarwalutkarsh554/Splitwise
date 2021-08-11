@@ -1,3 +1,3 @@
 # Splitwise
-Utkarsh Agarwal
-Vardaan Raj Singh
+*Utkarsh Agarwal
+*Vardaan Raj Singh
