@@ -1,2 +1,3 @@
-# CBFriendsCost
-CB Project
+# Splitwise
+Utkarsh Agarwal
+Vardaan Raj Singh
